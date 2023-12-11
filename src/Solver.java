@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Solver {
     public static void main(String[] args) throws Exception {
-        int[] days = new int[] {1, 2, 3, 4, 6, 7, 8, 9}; /* 7 - first part */
+        int[] days = new int[] {1, 2, 3, 4, 6, 7, 8, 9, 10}; /* 7 - first part, 10 - first part */
         boolean[] parts = new boolean[] { true, false };
 
         for (int day : days) {
